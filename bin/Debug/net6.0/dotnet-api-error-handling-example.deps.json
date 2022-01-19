@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dotnet-api-error-handling-example/1.0.0": {
+        "runtime": {
+          "dotnet-api-error-handling-example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-api-error-handling-example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

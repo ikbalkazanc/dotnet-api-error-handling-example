@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SjnaU0j7cHMUMwZUGyn7gwWehf9GgPA1uzsVhdRGzpo=",
+  "Source": "dotnet-api-error-handling-example",
+  "BasePath": "_content/dotnet-api-error-handling-example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
